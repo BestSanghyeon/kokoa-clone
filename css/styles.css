@@ -60,6 +60,7 @@ body {
 
 #login-form a {
   text-align: center;
-  text-decoration: inherit;
+  text-decoration: none;
+  color: inherit;
   font-size: 13px;
 }
